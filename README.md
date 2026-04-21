@@ -1,5 +1,5 @@
-# Game-Text-Editor
-Vibe coded translation tool dedicated to Gotouchi Tetsudou translation
+# Game Text Editor
+Vibe coded translation tool dedicated to Gotouchi Tetsudou translation.
 
 It needs only Python 3 to work.
 
